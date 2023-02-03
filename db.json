@@ -1,0 +1,354 @@
+{
+    "Candidate_Information": [
+        {
+            "id": 1,
+            "name": "John Smith",
+            "adjudication": "null",
+            "status": "CLEAR",
+            "location": "Barrouallie",
+            "date": "2/22/2022",
+            "Court_Searches": [
+                {
+                    "search": "SSN Verification",
+                    "status": "CLEAR",
+                    "date": "2/22/2022"
+                },
+                {
+                    "search": "Sex Offender",
+                    "status": "CLEAR",
+                    "date": "3/13/2022"
+                },
+                {
+                    "search": "Global Watchlist",
+                    "status": "CONSIDER",
+                    "date": "7/2/2022"
+                },
+                {
+                    "search": "Federal Criminal",
+                    "status": "CLEAR",
+                    "date": "2/20/2022"
+                },
+                {
+                    "search": "County Criminal",
+                    "status": "CLEAR",
+                    "date": "5/19/2022"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Serene",
+            "adjudication": "null",
+            "status": "CLEAR",
+            "location": "Vanersborg",
+            "date": "3/13/2022",
+            "Court_Searches": [
+                {
+                    "search": "SSN Verification",
+                    "status": "CLEAR",
+                    "date": "2/22/2022"
+                },
+                {
+                    "search": "Sex Offender",
+                    "status": "CLEAR",
+                    "date": "3/13/2022"
+                },
+                {
+                    "search": "Global Watchlist",
+                    "status": "CONSIDER",
+                    "date": "7/2/2022"
+                },
+                {
+                    "search": "Federal Criminal",
+                    "status": "CLEAR",
+                    "date": "2/20/2022"
+                },
+                {
+                    "search": "County Criminal",
+                    "status": "CLEAR",
+                    "date": "5/19/2022"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Walsh",
+            "adjudication": "null",
+            "status": "CONSIDER",
+            "location": "Sukamanah",
+            "date": "7/2/2022",
+            "Court_Searches": [
+                {
+                    "search": "SSN Verification",
+                    "status": "CLEAR",
+                    "date": "2/22/2022"
+                },
+                {
+                    "search": "Sex Offender",
+                    "status": "CLEAR",
+                    "date": "3/13/2022"
+                },
+                {
+                    "search": "Global Watchlist",
+                    "status": "CONSIDER",
+                    "date": "7/2/2022"
+                },
+                {
+                    "search": "Federal Criminal",
+                    "status": "CLEAR",
+                    "date": "2/20/2022"
+                },
+                {
+                    "search": "County Criminal",
+                    "status": "CLEAR",
+                    "date": "5/19/2022"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Maurizia",
+            "adjudication": "null",
+            "status": "CLEAR",
+            "location": "Sukamanah",
+            "date": "2/20/2022",
+            "Court_Searches": [
+                {
+                    "search": "SSN Verification",
+                    "status": "CLEAR",
+                    "date": "2/22/2022"
+                },
+                {
+                    "search": "Sex Offender",
+                    "status": "CLEAR",
+                    "date": "3/13/2022"
+                },
+                {
+                    "search": "Global Watchlist",
+                    "status": "CONSIDER",
+                    "date": "7/2/2022"
+                },
+                {
+                    "search": "Federal Criminal",
+                    "status": "CLEAR",
+                    "date": "2/20/2022"
+                },
+                {
+                    "search": "County Criminal",
+                    "status": "CLEAR",
+                    "date": "5/19/2022"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Kendre",
+            "adjudication": "null",
+            "status": "CLEAR",
+            "location": "Beutong Ateuh",
+            "date": "5/19/2022",
+            "Court_Searches": [
+                {
+                    "search": "SSN Verification",
+                    "status": "CLEAR",
+                    "date": "2/22/2022"
+                },
+                {
+                    "search": "Sex Offender",
+                    "status": "CLEAR",
+                    "date": "3/13/2022"
+                },
+                {
+                    "search": "Global Watchlist",
+                    "status": "CONSIDER",
+                    "date": "7/2/2022"
+                },
+                {
+                    "search": "Federal Criminal",
+                    "status": "CLEAR",
+                    "date": "2/20/2022"
+                },
+                {
+                    "search": "County Criminal",
+                    "status": "CLEAR",
+                    "date": "5/19/2022"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Erastus",
+            "adjudication": "null",
+            "status": "CLEAR",
+            "location": "Hoviyn Am",
+            "date": "12/1/2022",
+            "Court_Searches": [
+                {
+                    "search": "SSN Verification",
+                    "status": "CLEAR",
+                    "date": "2/22/2022"
+                },
+                {
+                    "search": "Sex Offender",
+                    "status": "CLEAR",
+                    "date": "3/13/2022"
+                },
+                {
+                    "search": "Global Watchlist",
+                    "status": "CONSIDER",
+                    "date": "7/2/2022"
+                },
+                {
+                    "search": "Federal Criminal",
+                    "status": "CLEAR",
+                    "date": "2/20/2022"
+                },
+                {
+                    "search": "County Criminal",
+                    "status": "CLEAR",
+                    "date": "5/19/2022"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Jereme",
+            "adjudication": "null",
+            "status": "CONSIDER",
+            "location": "Sharingol",
+            "date": "7/26/2022",
+            "Court_Searches": [
+                {
+                    "search": "SSN Verification",
+                    "status": "CLEAR",
+                    "date": "2/22/2022"
+                },
+                {
+                    "search": "Sex Offender",
+                    "status": "CLEAR",
+                    "date": "3/13/2022"
+                },
+                {
+                    "search": "Global Watchlist",
+                    "status": "CONSIDER",
+                    "date": "7/2/2022"
+                },
+                {
+                    "search": "Federal Criminal",
+                    "status": "CLEAR",
+                    "date": "2/20/2022"
+                },
+                {
+                    "search": "County Criminal",
+                    "status": "CLEAR",
+                    "date": "5/19/2022"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "John Smith",
+            "adjudication": "null",
+            "status": "CONSIDER",
+            "location": "Lianyun",
+            "date": "5/28/2022",
+            "Court_Searches": [
+                {
+                    "search": "SSN Verification",
+                    "status": "CLEAR",
+                    "date": "2/22/2022"
+                },
+                {
+                    "search": "Sex Offender",
+                    "status": "CLEAR",
+                    "date": "3/13/2022"
+                },
+                {
+                    "search": "Global Watchlist",
+                    "status": "CONSIDER",
+                    "date": "7/2/2022"
+                },
+                {
+                    "search": "Federal Criminal",
+                    "status": "CLEAR",
+                    "date": "2/20/2022"
+                },
+                {
+                    "search": "County Criminal",
+                    "status": "CLEAR",
+                    "date": "5/19/2022"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Carl",
+            "adjudication": "null",
+            "status": "CLEAR",
+            "location": "Taboão da Serra",
+            "date": "5/23/2022",
+            "Court_Searches": [
+                {
+                    "search": "SSN Verification",
+                    "status": "CLEAR",
+                    "date": "2/22/2022"
+                },
+                {
+                    "search": "Sex Offender",
+                    "status": "CLEAR",
+                    "date": "3/13/2022"
+                },
+                {
+                    "search": "Global Watchlist",
+                    "status": "CONSIDER",
+                    "date": "7/2/2022"
+                },
+                {
+                    "search": "Federal Criminal",
+                    "status": "CLEAR",
+                    "date": "2/20/2022"
+                },
+                {
+                    "search": "County Criminal",
+                    "status": "CLEAR",
+                    "date": "5/19/2022"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Kimble",
+            "adjudication": "null",
+            "status": "CONSIDER",
+            "location": "Vesali nad Moravou",
+            "date": "8/24/2022",
+            "Court_Searches": [
+                {
+                    "search": "SSN Verification",
+                    "status": "CLEAR",
+                    "date": "2/22/2022"
+                },
+                {
+                    "search": "Sex Offender",
+                    "status": "CLEAR",
+                    "date": "3/13/2022"
+                },
+                {
+                    "search": "Global Watchlist",
+                    "status": "CONSIDER",
+                    "date": "7/2/2022"
+                },
+                {
+                    "search": "Federal Criminal",
+                    "status": "CLEAR",
+                    "date": "2/20/2022"
+                },
+                {
+                    "search": "County Criminal",
+                    "status": "CLEAR",
+                    "date": "5/19/2022"
+                }
+            ]
+        }
+    ]
+}
